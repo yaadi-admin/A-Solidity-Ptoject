@@ -14,7 +14,7 @@
   "author": "OMEN",
   "license": "MIT",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.8.1",
+    "@openzeppelin/contracts": "^4.8.2",
     "truffle": "^5.7.4"
   },
   "devDependencies": {
